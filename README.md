@@ -1,4 +1,4 @@
-<h1>Hi, I'm Borel! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Junior Cybersecurity analyst</a>
+<h1>Hi, I'm Borel! <br/><a href="">IT/DevOps Engineer</a>, <a href="">Cloud Professional</a>,<a href="">Fullstack (JavaEE, .net, React, Angular)l</a> 
 <h2>👨‍💻 Software Development Projects:</h2>
 <!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
